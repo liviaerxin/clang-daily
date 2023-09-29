@@ -1,7 +1,8 @@
 # Use Clang clangTooling to check sytanx
 
-
 [Tutorial for building tools using LibTooling and LibASTMatchers — Clang 18.0.0git documentation](https://clang.llvm.org/docs/LibASTMatchersTutorial.html)
+
+[Clang Tutorial: Finding Declarations](https://xinhuang.github.io/posts/2014-10-19-clang-tutorial-finding-declarations.html)
 
 ```sh
 cmake -B build -S .
